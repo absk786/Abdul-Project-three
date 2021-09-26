@@ -1,0 +1,62 @@
+Project 3:
+Goal: ​​Create a MERN stack single-page application that works with real-world data to solve a real-world challenge, with a focus on user demand. Half of the group will work on the client-side of the server while the other half will work on the server-side. 
+
+ Canvas Checklist:
+Technical Acceptance Criteria: 25%
+Use React for the front end.
+Use GraphQL with a Node.js and Express.js server.
+Use MongoDB and the Mongoose ODM for the database.
+Use queries and mutations for retrieving, adding, updating, and deleting data.
+Include authentication (JWT).
+Protect sensitive API key information on the server.
+Stripe payment platform
+
+Concept: 10%
+Application should originate from a unique and novel idea.
+Your group should clearly and concisely articulate your project idea. - Where?
+
+Repository Quality: 10%
+Repo has a unique name
+Repo follows best practices for file structure and naming conventions
+Repo follows best practices for class and id naming conventions, indentations, quality comments, etc
+Repo contains multiple descriptive commit messages
+Repo contains a high-quality README file with description, screenshot, and link to deployed application
+
+Application Quality: 15%
+Application user experience is intuitive and easy to navigate
+Application user interface style is clean and polished
+Application is responsive and mobile-friendly
+Your group should clearly and concisely articulate your project idea. 
+
+Deployment: 20%
+Be deployed using Heroku (with data) and loads with no errors.
+Application GitHub URL submitted
+Portfolio at live URL submitted, featuring project
+
+Presentation: 10%
+Your group should present using Google Slides, Powerpoint, or a similar presentation software.
+Each group member should speak during the presentation.
+Your presentation should follow the Project Presentation Template.
+
+
+Strengths
+Project decided
+Ideas:
+eCommerce - (Vinyl records selling app) 
+Front-end UI - 
+Wireframe: Mayuran
+CSS:
+Mayuran and Amna to review the library to make a recommendation
+React Router page structure created -Mayuran
+GraphQL typeDefs and resolvers defined - Joseph
+Service worker added - Mayuran
+Web manifest created - Amna
+Offline functionality complete - Mayuran
+Authentication created - Joseph
+Testing - Abdul
+Documentation created - 
+Presentation created - Amna
+User Stories
+
+When I load the page
+Then I see app name, navigation link: 
