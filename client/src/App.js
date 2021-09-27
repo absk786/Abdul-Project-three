@@ -43,7 +43,7 @@ function App() {
       <Router>
         <div>
           <StoreProvider>
-            <Nav />
+            <Nav/>
             <Switch>
               <Route exact path="/" component={Home} />
               <Route exact path="/login" component={Login} />
@@ -59,5 +59,4 @@ function App() {
     </ApolloProvider>
   );
 }
-
 export default App;
