@@ -20,7 +20,7 @@ db.once('open', async () => {
     {
       name: 'Manchester United',
       description:'football tickets',
-      image: 'cookie-tin.jpg',
+      image: 'manchesterunited.png',
       category: categories[0]._id,
       price: 200.00,
       quantity: 5
@@ -36,7 +36,7 @@ db.once('open', async () => {
     {
       name: 'Chelsea',
       description:'football tickets',
-      image: 'cookie-tin.jpg',
+      image: 'chelse.png',
       category: categories[0]._id,
       price: 200.00,
       quantity: 5
@@ -44,7 +44,7 @@ db.once('open', async () => {
     {
       name: 'Tottenham',
       description:'football tickets',
-      image: 'cookie-tin.jpg',
+      image: 'spurs.png',
       category: categories[0]._id,
       price: 200.00,
       quantity: 5
@@ -52,7 +52,7 @@ db.once('open', async () => {
     {
       name: 'Manchester City',
       description:'football tickets',
-      image: 'canned-coffee.jpg',
+      image: 'manchestercity.png',
       category: categories[0]._id,
       price: 200.00,
       quantity: 5
@@ -61,7 +61,7 @@ db.once('open', async () => {
       name: 'Barcelona',
       category: categories[1]._id,
       description:'football tickets',
-      image: 'toilet-paper.jpg',
+      image: 'barcelona.png',
       price: 200.00,
       quantity: 5
     },
@@ -69,7 +69,7 @@ db.once('open', async () => {
       name: 'Real Madrid',
       category: categories[1]._id,
       description:'football tickets',
-      image: 'soap.jpg',
+      image: 'realmadrid.png',
       price: 200.00,
       quantity: 5
     },
@@ -77,7 +77,7 @@ db.once('open', async () => {
       name: 'Paris Saint Germain',
       category: categories[1]._id,
       description:'football tickets',
-      image: 'wooden-spoons.jpg',
+      image: 'psg.png',
       price: 200.00,
       quantity: 5
     },
@@ -85,7 +85,7 @@ db.once('open', async () => {
       name: 'Borrousia Dortmund',
       category: categories[2]._id,
       description:'football tickets',
-      image: 'camera.jpg',
+      image: 'dortmung.png',
       price: 200.00,
       quantity: 5
     },
@@ -93,7 +93,7 @@ db.once('open', async () => {
       name: 'Atletico Madrid',
       category: categories[2]._id,
       description:'football tickets',
-      image: 'tablet.jpg',
+      image: 'athletico.png',
       price: 200.00,
       quantity: 5
     },
@@ -101,7 +101,7 @@ db.once('open', async () => {
       name: 'Lilie',
       category: categories[3]._id,
       description:'football tickets',
-      image: 'bedtime-book.jpg',
+      image: 'lile.png',
       price: 200.00,
       quantity: 5
     },
@@ -109,7 +109,7 @@ db.once('open', async () => {
       name: 'RB Salzburg',
       category: categories[4]._id,
       description:'football tickets',
-      image: 'plastic-horses.jpg',
+      image: 'rbsalzburg.png',
       price: 200.00,
       quantity: 5
     },
@@ -117,7 +117,7 @@ db.once('open', async () => {
       name: 'RB Leipzig',
       category: categories[4]._id,
       description:'football tickets',
-      image: 'teddy-bear.jpg',
+      image: 'leipzig.png',
       price: 200.00,
       quantity: 5
     },
