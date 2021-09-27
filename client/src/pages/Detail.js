@@ -25,6 +25,7 @@ function Detail() {
   const { products, cart } = state;
 
   useEffect(() => {
+    console.log('data detail', data);
     // already in global store
     if (products.length) {
       setCurrentProduct(products.find((product) => product._id === id));
