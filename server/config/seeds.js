@@ -19,8 +19,7 @@ db.once('open', async () => {
   const products = await Product.insertMany([
     {
       name: 'Manchester United',
-      description:
-        'Manchester United football tickets',
+      description:'football tickets',
       image: 'cookie-tin.jpg',
       category: categories[0]._id,
       price: 200.00,
@@ -28,8 +27,7 @@ db.once('open', async () => {
     },
     {
       name: 'Liverpool',
-      description:
-        'Manchester United football tickets',
+      description:'football tickets',
       image: 'cookie-tin.jpg',
       category: categories[0]._id,
       price: 200.00,
@@ -37,8 +35,7 @@ db.once('open', async () => {
     },
     {
       name: 'Chelsea',
-      description:
-        'Manchester United football tickets',
+      description:'football tickets',
       image: 'cookie-tin.jpg',
       category: categories[0]._id,
       price: 200.00,
@@ -46,8 +43,7 @@ db.once('open', async () => {
     },
     {
       name: 'Tottenham',
-      description:
-        'Manchester United football tickets',
+      description:'football tickets',
       image: 'cookie-tin.jpg',
       category: categories[0]._id,
       price: 200.00,
@@ -55,8 +51,7 @@ db.once('open', async () => {
     },
     {
       name: 'Manchester City',
-      description:
-        'Praesent sed lacinia mauris. Nulla congue nibh magna, at feugiat nunc scelerisque quis. Donec iaculis rutrum vulputate. Suspendisse lectus sem, vulputate ac lectus sed, placerat consequat dui.',
+      description:'football tickets',
       image: 'canned-coffee.jpg',
       category: categories[0]._id,
       price: 200.00,
@@ -65,8 +60,7 @@ db.once('open', async () => {
     {
       name: 'Barcelona',
       category: categories[1]._id,
-      description:
-        'Donec volutpat erat erat, sit amet gravida justo sodales in. Phasellus tempus euismod urna. Proin ultrices nisi ut ipsum congue, vitae porttitor libero suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam lacinia a nisi non congue.',
+      description:'football tickets',
       image: 'toilet-paper.jpg',
       price: 200.00,
       quantity: 5
@@ -74,8 +68,7 @@ db.once('open', async () => {
     {
       name: 'Real Madrid',
       category: categories[1]._id,
-      description:
-        'Real Madrid tickets',
+      description:'football tickets',
       image: 'soap.jpg',
       price: 200.00,
       quantity: 5
@@ -83,8 +76,7 @@ db.once('open', async () => {
     {
       name: 'Paris Saint Germain',
       category: categories[1]._id,
-      description:
-        'PSG tickets',
+      description:'football tickets',
       image: 'wooden-spoons.jpg',
       price: 200.00,
       quantity: 5
@@ -92,8 +84,7 @@ db.once('open', async () => {
     {
       name: 'Borrousia Dortmund',
       category: categories[2]._id,
-      description:
-        'Dortmund tickets',
+      description:'football tickets',
       image: 'camera.jpg',
       price: 200.00,
       quantity: 5
@@ -101,8 +92,7 @@ db.once('open', async () => {
     {
       name: 'Atletico Madrid',
       category: categories[2]._id,
-      description:
-        'In sodales, ipsum quis ultricies porttitor, tellus urna aliquam arcu, eget venenatis purus ligula ut nisi. Fusce ut felis dolor. Mauris justo ante, aliquet non tempus in, tempus ac lorem. Aliquam lacinia dolor eu sem eleifend ultrices. Etiam mattis metus metus. Sed ligula dui, placerat non turpis vitae, suscipit volutpat elit. Phasellus sagittis, diam elementum suscipit fringilla, libero mauris scelerisque ex, ac interdum diam erat non sapien.',
+      description:'football tickets',
       image: 'tablet.jpg',
       price: 200.00,
       quantity: 5
@@ -110,8 +100,7 @@ db.once('open', async () => {
     {
       name: 'Lilie',
       category: categories[3]._id,
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ornare diam quis eleifend rutrum. Aliquam nulla est, volutpat non enim nec, pharetra gravida augue. Donec vitae dictum neque. Pellentesque arcu lorem, fringilla non ligula ac, tristique bibendum erat. Ut a semper nibh. Quisque a mi et mi tempor ultricies. Maecenas eu ipsum eu enim hendrerit accumsan at euismod urna.',
+      description:'football tickets',
       image: 'bedtime-book.jpg',
       price: 200.00,
       quantity: 5
@@ -119,8 +108,7 @@ db.once('open', async () => {
     {
       name: 'RB Salzburg',
       category: categories[4]._id,
-      description:
-        'Sed a mauris condimentum, elementum enim in, rhoncus dui. Phasellus lobortis leo odio, sit amet pharetra turpis porta quis.',
+      description:'football tickets',
       image: 'plastic-horses.jpg',
       price: 200.00,
       quantity: 5
@@ -128,8 +116,7 @@ db.once('open', async () => {
     {
       name: 'RB Leipzig',
       category: categories[4]._id,
-      description:
-        'Vestibulum et erat finibus erat suscipit vulputate sed vitae dui. Ut laoreet tellus sit amet justo bibendum ultrices. Donec vitae felis vestibulum, congue augue eu, finibus turpis.',
+      description:'football tickets',
       image: 'teddy-bear.jpg',
       price: 200.00,
       quantity: 5

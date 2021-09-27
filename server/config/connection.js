@@ -1,6 +1,6 @@
 const mongoose = require ('mongoose')
 require ('dotenv').config()
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/mernshopping', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/Project3', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,

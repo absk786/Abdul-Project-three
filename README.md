@@ -1,13 +1,12 @@
 # E-commerre apps
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Usage
-The application allows the user to access, store, and save items of interest to
-their account and also allows them to securely complete their transaction. 
+The application allows the user to purchase tickets to thier favourite football games in europe. 
 ## Guidelines 
 ### User Story:
 ```
-AS a shopper,
-I WANT to easily browse through  
+AS a avid football fan,
+I WANT to easily and safely be able to browse my teams football tickets 
 SO THAT I can add items to my cart for checkout.
 ```
 ### Acceptance Test for User Story: 
