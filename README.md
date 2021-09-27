@@ -6,7 +6,7 @@ The application allows the user to purchase tickets to thier favourite football 
 ### User Story:
 ```
 AS a avid football fan,
-I WANT to easily and safely be able to browse my teams football tickets 
+I WANT to easily and safely be able to browse football tickets for the teams i like
 SO THAT I can add items to my cart for checkout.
 ```
 ### Acceptance Test for User Story: 

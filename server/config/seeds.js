@@ -7,7 +7,7 @@ db.once('open', async () => {
   const categories = await Category.insertMany([
     { name: 'English Premier League' },
     { name: 'La Liga' },
-    { name: 'Bundesliga ' },
+    { name: 'Bundesliga' },
     { name: 'Ligue Un' },
     { name: 'Eradivise' }
   ]);
