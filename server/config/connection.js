@@ -1,6 +1,6 @@
 const mongoose = require ('mongoose')
 require ('dotenv').config()
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/Project3', {
+mongoose.connect('mongodb://localhost/Project3', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
@@ -8,3 +8,4 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/Project3', {
 });
   
 module.exports = mongoose.connection;
+// process.env.MONGODB_URI || 

@@ -2,7 +2,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Usage
 The application allows the user to purchase tickets to thier favourite football games in europe. 
-## Guidelines 
 ### User Story:
 ```
 AS a avid football fan,
@@ -29,11 +28,10 @@ BUT I will not be able to proceed to the checkout unless I make an account.
 WHEN I go through the application’s inventory, 
 THEN I have the ability to view items based on genre or trending selections 
 and see available records for purchase. 
-WHEN I click on a record, 
-THEN I am given the option to view a larger size of the record along with a 
-brief description and price AND I can add the record to my cart.
-WHEN I click on a record, 
-THEN I will be shown a number of similar items. 
+WHEN I click on a club, 
+THEN I am given the option to view the tickets for the upcomming matches for the club
+WHEN I click on a match, 
+THEN I will be shown the available tickets in different areas for that matches. 
 WHEN I select on my cart, 
 THEN I am able to view the items I have saved for checkout and proceed 
 with the order. 
