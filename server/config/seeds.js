@@ -28,7 +28,7 @@ db.once('open', async () => {
     {
       name: 'Liverpool',
       description:'football tickets',
-      image: 'cookie-tin.jpg',
+      image: 'liverpool.png',
       category: categories[0]._id,
       price: 200.00,
       quantity: 5
@@ -85,7 +85,7 @@ db.once('open', async () => {
       name: 'Borrousia Dortmund',
       category: categories[2]._id,
       description:'football tickets',
-      image: 'dortmung.png',
+      image: 'dortmund.png',
       price: 200.00,
       quantity: 5
     },

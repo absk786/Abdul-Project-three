@@ -1,7 +1,7 @@
 Project 3:
 Goal: ​​Create a MERN stack single-page application that works with real-world data to solve a real-world challenge, with a focus on user demand. Half of the group will work on the client-side of the server while the other half will work on the server-side. 
 
- Canvas Checklist:
+Canvas Checklist:
 Technical Acceptance Criteria: 25%
 Use React for the front end.
 Use GraphQL with a Node.js and Express.js server.
@@ -37,26 +37,3 @@ Presentation: 10%
 Your group should present using Google Slides, Powerpoint, or a similar presentation software.
 Each group member should speak during the presentation.
 Your presentation should follow the Project Presentation Template.
-
-
-Strengths
-Project decided
-Ideas:
-eCommerce - (Vinyl records selling app) 
-Front-end UI - 
-Wireframe: Mayuran
-CSS:
-Mayuran and Amna to review the library to make a recommendation
-React Router page structure created -Mayuran
-GraphQL typeDefs and resolvers defined - Joseph
-Service worker added - Mayuran
-Web manifest created - Amna
-Offline functionality complete - Mayuran
-Authentication created - Joseph
-Testing - Abdul
-Documentation created - 
-Presentation created - Amna
-User Stories
-
-When I load the page
-Then I see app name, navigation link: 

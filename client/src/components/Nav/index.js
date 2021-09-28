@@ -43,8 +43,8 @@ function Nav() {
     <header className="flex-row px-1">
       <h1>
         <Link to="/">
-          <span role="img" aria-label="shopping bag">🛍️</span>
-          -Buy SOMETHING
+          <span role="img" aria-label="shopping bag">⚽     </span><span/>
+          Welcome to Socceringo
         </Link>
       </h1>
 
