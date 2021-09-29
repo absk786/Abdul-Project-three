@@ -1,5 +1,40 @@
-# E-commerre apps
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Survey Donkey
+A survey application where users are able to make their own surveys and share with others. While anyone will be able to take the surveys, only logged in users will be able to create, edit, and delete their surveys.
+___
+
+## Talbe of Contents
+
+* [Usage](#usage)
+* [Links](#links)
+* [Tools](#tools)
+* [Credits](#credits)
+* [License](#license)
+* [User Story](#user-story)
+___
+
+## Tools
+* JavaScript
+* node.js
+* MySQL2
+* Express.js
+* Sequelize
+* dotenv
+* bcrypt
+* connect-session-sequelize
+* express-handlebars
+* express-session
+* HTML & CSS
+* UUID
+___
+
+## Credits
+* Completed by: 
+    * [Abdul Khalil](https://github.com/absk786)
+___
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://
+a new survey
 ## Usage
 The application allows the user to purchase tickets to thier favourite football games in europe. 
 ### User Story:
@@ -63,10 +98,6 @@ Users can buy **something** here
   3. At the root directory, type  `npm install`  to install the npm modules
   4. Make sure you have MongoDb installed on your system
   5. In your terminal, at the root directory, run the app by typing:  `npm run develop`
-
-## Contributing
-
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
 
 ## Screenshots
 
