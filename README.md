@@ -1,6 +1,4 @@
-# Survey Donkey
-A survey application where users are able to make their own surveys and share with others. While anyone will be able to take the surveys, only logged in users will be able to create, edit, and delete their surveys.
-___
+
 
 ## Talbe of Contents
 
