@@ -7,7 +7,7 @@
 * [License](#license)
 * [User Story](#user-story)
 ___
-## ![App](client/public/images/Screen Shot 2021-10-01 at 9.32.17 AM 2.png)
+## ![App](client/public/images/Screen.png)
 ## Tools
 * JavaScript
 * node.js
