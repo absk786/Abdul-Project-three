@@ -1,5 +1,3 @@
-
-
 ## Talbe of Contents
 
 * [Usage](#usage)
@@ -9,7 +7,8 @@
 * [License](#license)
 * [User Story](#user-story)
 ___
-
+application: [client/public/images/Screen Shot 2021-10-01 at 9.32.17 AM 2.png]
+## ![App](client/public/images/Screen Shot 2021-10-01 at 9.32.17 AM 2.png)
 ## Tools
 * JavaScript
 * node.js
@@ -27,9 +26,8 @@ ___
 
 ## Credits
 * Completed by: 
-    * [Abdul Khalil](https://github.com/absk786)
+[Abdul Khalil](https://github.com/absk786)
 ___
-
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://
 a new survey
@@ -98,7 +96,6 @@ Users can buy **something** here
   5. In your terminal, at the root directory, run the app by typing:  `npm run develop`
 
 ## Screenshots
-
 
 
 ## Questions
